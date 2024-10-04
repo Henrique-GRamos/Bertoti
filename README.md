@@ -1,7 +1,7 @@
 # Bot Telegram
 
-Este projeto implementa um bot no Telegram que auxilia usuários a buscar imóveis para aluguel ou venda, automatizando a pesquisa em sites como QuintoAndar e Chaves na Mão usando Selenium. Ao iniciar com o comando /start, o bot orienta o usuário sobre as opções de busca, permitindo escolher entre aluguel ou venda, tipo de imóvel (casa ou apartamento), e o preço máximo desejado. Com essas informações, o bot realiza a busca nos sites e retorna os links dos imóveis encontrados diretamente no chat.
+Este projeto tem como objetivo desenvolver um bot que automatiza a interação entre humanos e computadores, alinhado à proposta da disciplina Interação Humano-Computador. Através de uma interface natural, o usuário se comunica com o bot via Telegram, e o bot, por sua vez, realiza buscas em sites de imóveis como QuintoAndar e Chaves na Mão, utilizando o Selenium para navegar e filtrar os resultados de acordo com os critérios especificados pelo usuário (aluguel ou venda, tipo de imóvel, faixa de preço).
 
-Utilizando a biblioteca telebot para interação com o Telegram e o Selenium para automatizar as buscas, o bot filtra os imóveis conforme as preferências do usuário e exibe os resultados rapidamente. 
+O conceito deste trabalho está fundamentado na ideia de converter linguagem natural em ações automatizadas, aplicando o que há de mais avançado em IA, como os modelos de linguagem que demonstramos em aula. A proposta vai além de um simples chatbot: estamos criando um agente capaz de realizar tarefas complexas, como buscar imóveis em vários sites simultaneamente, retornando os resultados diretamente no chat do Telegram. Assim, o usuário economiza tempo e evita o trabalho manual de acessar os sites e realizar buscas.
 
-O processo visa uma forma mais rapida e pratica de pesquisa de imóveis, se tornando mais eficiente e eliminando a necessidade de navegação manual pelos sites.
+O projeto está de acordo com o objetivo da disciplina, que é criar uma interface eficiente entre humanos e computadores, facilitando o processo de busca de informações através de comandos simples em linguagem natural.
